@@ -12,8 +12,6 @@
 /HellsTunnel/Config/**
 /HellsTunnel/Content/**
 /HellsTunnel/.vsconfig
-/HellsTunnel/*.sln
-/HellsTunnel/*.uproject
 /HellsTunnel/HellsTunnel.uproject.DotSettings.user
 
 
